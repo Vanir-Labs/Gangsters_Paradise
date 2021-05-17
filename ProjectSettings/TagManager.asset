@@ -7,6 +7,7 @@ TagManager:
   - Terrain
   - Projectile
   - Collectable
+  - Gemstone
   layers:
   - Default
   - TransparentFX
