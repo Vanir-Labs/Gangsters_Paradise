@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Lexrk/Desktop/Lex TFS/Spring/VGP121/Lab 4/VGP121-L4-KING_ALEXANDER-main/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
